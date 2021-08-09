@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{39226D0C-ED02-44DE-AA9D-5CD28780CB68}</ProjectGuid>
+    <ProjectGuid>{76762793-AE04-44AD-B6A6-F58552E5893E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Decoration</RootNamespace>
-    <AssemblyName>Decoration</AssemblyName>
+    <RootNamespace>Proxy</RootNamespace>
+    <AssemblyName>Proxy</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,12 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Finery.cs" />
-    <Compile Include="Person.cs" />
+    <Compile Include="IProxyMethod.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Sneakers.cs" />
-    <Compile Include="Tshirt.cs" />
+    <Compile Include="Proxy.cs" />
+    <Compile Include="Pursuit.cs" />
+    <Compile Include="SchoolGirl.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

@@ -1,0 +1,7 @@
+L:\MyPractice\DesignPattern\SimpleFactory\Proxy\bin\Debug\Proxy.exe.config
+L:\MyPractice\DesignPattern\SimpleFactory\Proxy\bin\Debug\Proxy.exe
+L:\MyPractice\DesignPattern\SimpleFactory\Proxy\bin\Debug\Proxy.pdb
+L:\MyPractice\DesignPattern\SimpleFactory\Proxy\obj\Debug\Proxy.csproj.AssemblyReference.cache
+L:\MyPractice\DesignPattern\SimpleFactory\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+L:\MyPractice\DesignPattern\SimpleFactory\Proxy\obj\Debug\Proxy.exe
+L:\MyPractice\DesignPattern\SimpleFactory\Proxy\obj\Debug\Proxy.pdb
