@@ -25,8 +25,6 @@ namespace SimpleFactory
             GetCalInstance(operation).Calculate(num1, num2, ref result);
             Console.WriteLine($"答案：{result}");
 
-            
-
             Console.ReadKey();
         }
 

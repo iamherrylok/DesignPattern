@@ -1,0 +1,7 @@
+L:\MyPractice\DesignPattern\SimpleFactory\SimpleFactory\bin\Debug\SimpleFactory.exe.config
+L:\MyPractice\DesignPattern\SimpleFactory\SimpleFactory\bin\Debug\SimpleFactory.exe
+L:\MyPractice\DesignPattern\SimpleFactory\SimpleFactory\bin\Debug\SimpleFactory.pdb
+L:\MyPractice\DesignPattern\SimpleFactory\SimpleFactory\obj\Debug\SimpleFactory.csproj.AssemblyReference.cache
+L:\MyPractice\DesignPattern\SimpleFactory\SimpleFactory\obj\Debug\SimpleFactory.csproj.CoreCompileInputs.cache
+L:\MyPractice\DesignPattern\SimpleFactory\SimpleFactory\obj\Debug\SimpleFactory.exe
+L:\MyPractice\DesignPattern\SimpleFactory\SimpleFactory\obj\Debug\SimpleFactory.pdb
