@@ -1,0 +1,7 @@
+L:\MyPractice\DesignPattern\SimpleFactory\Appearance\bin\Debug\Appearance.exe.config
+L:\MyPractice\DesignPattern\SimpleFactory\Appearance\bin\Debug\Appearance.exe
+L:\MyPractice\DesignPattern\SimpleFactory\Appearance\bin\Debug\Appearance.pdb
+L:\MyPractice\DesignPattern\SimpleFactory\Appearance\obj\Debug\Appearance.csproj.AssemblyReference.cache
+L:\MyPractice\DesignPattern\SimpleFactory\Appearance\obj\Debug\Appearance.csproj.CoreCompileInputs.cache
+L:\MyPractice\DesignPattern\SimpleFactory\Appearance\obj\Debug\Appearance.exe
+L:\MyPractice\DesignPattern\SimpleFactory\Appearance\obj\Debug\Appearance.pdb
