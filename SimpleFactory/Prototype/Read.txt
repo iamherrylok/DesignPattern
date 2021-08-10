@@ -3,3 +3,4 @@
 关键：
 1.原型对象需要继承ICloneable接口；
 2.实现接口方法Clone（），方法体内返回当前对象的副本（浅拷贝：this.MemberwiseClone()）,注意返回类型为Object;
+3.如果原型模式里带有引用类型的属性，则需要再原型中的clone再对引用类型做一次Clone；
