@@ -1,0 +1,7 @@
+L:\MyPractice\DesignPattern\SimpleFactory\Prototype\bin\Debug\Prototype.exe.config
+L:\MyPractice\DesignPattern\SimpleFactory\Prototype\bin\Debug\Prototype.exe
+L:\MyPractice\DesignPattern\SimpleFactory\Prototype\bin\Debug\Prototype.pdb
+L:\MyPractice\DesignPattern\SimpleFactory\Prototype\obj\Debug\Prototype.csproj.AssemblyReference.cache
+L:\MyPractice\DesignPattern\SimpleFactory\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+L:\MyPractice\DesignPattern\SimpleFactory\Prototype\obj\Debug\Prototype.exe
+L:\MyPractice\DesignPattern\SimpleFactory\Prototype\obj\Debug\Prototype.pdb
