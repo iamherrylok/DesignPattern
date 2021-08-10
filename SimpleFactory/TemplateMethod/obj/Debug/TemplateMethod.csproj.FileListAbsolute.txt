@@ -1,0 +1,7 @@
+L:\MyPractice\DesignPattern\SimpleFactory\TemplateMethod\obj\Debug\TemplateMethod.csproj.AssemblyReference.cache
+L:\MyPractice\DesignPattern\SimpleFactory\TemplateMethod\obj\Debug\TemplateMethod.csproj.CoreCompileInputs.cache
+L:\MyPractice\DesignPattern\SimpleFactory\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+L:\MyPractice\DesignPattern\SimpleFactory\TemplateMethod\bin\Debug\TemplateMethod.exe
+L:\MyPractice\DesignPattern\SimpleFactory\TemplateMethod\bin\Debug\TemplateMethod.pdb
+L:\MyPractice\DesignPattern\SimpleFactory\TemplateMethod\obj\Debug\TemplateMethod.exe
+L:\MyPractice\DesignPattern\SimpleFactory\TemplateMethod\obj\Debug\TemplateMethod.pdb
