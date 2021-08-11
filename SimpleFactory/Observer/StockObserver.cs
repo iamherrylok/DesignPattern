@@ -10,9 +10,9 @@ namespace Observer
     {
         private string _name;
 
-        private Secretary _secretary;
+        private SecretaryBase _secretary;
 
-        public StockObserver(string name,Secretary secretary):base(name,secretary)
+        public StockObserver(string name, SecretaryBase secretary):base(name,secretary)
         {
             
         }

@@ -1,0 +1,7 @@
+L:\MyPractice\DesignPattern\SimpleFactory\Adapter\bin\Debug\Adapter.exe.config
+L:\MyPractice\DesignPattern\SimpleFactory\Adapter\bin\Debug\Adapter.exe
+L:\MyPractice\DesignPattern\SimpleFactory\Adapter\bin\Debug\Adapter.pdb
+L:\MyPractice\DesignPattern\SimpleFactory\Adapter\obj\Debug\Adapter.csproj.AssemblyReference.cache
+L:\MyPractice\DesignPattern\SimpleFactory\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+L:\MyPractice\DesignPattern\SimpleFactory\Adapter\obj\Debug\Adapter.exe
+L:\MyPractice\DesignPattern\SimpleFactory\Adapter\obj\Debug\Adapter.pdb
