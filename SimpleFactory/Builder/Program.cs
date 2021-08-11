@@ -8,7 +8,6 @@ namespace Builder
 {
     class Program
     {
-
         /// <summary>
         /// 建造者模式主要作用是将建造流程和实现分开
         /// 通过抽象类来固定流程

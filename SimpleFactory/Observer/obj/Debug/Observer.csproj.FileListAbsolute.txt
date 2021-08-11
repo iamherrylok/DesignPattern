@@ -1,0 +1,7 @@
+L:\MyPractice\DesignPattern\SimpleFactory\Observer\bin\Debug\Observer.exe.config
+L:\MyPractice\DesignPattern\SimpleFactory\Observer\bin\Debug\Observer.exe
+L:\MyPractice\DesignPattern\SimpleFactory\Observer\bin\Debug\Observer.pdb
+L:\MyPractice\DesignPattern\SimpleFactory\Observer\obj\Debug\Observer.csproj.CoreCompileInputs.cache
+L:\MyPractice\DesignPattern\SimpleFactory\Observer\obj\Debug\Observer.exe
+L:\MyPractice\DesignPattern\SimpleFactory\Observer\obj\Debug\Observer.pdb
+L:\MyPractice\DesignPattern\SimpleFactory\Observer\obj\Debug\Observer.csproj.AssemblyReference.cache
