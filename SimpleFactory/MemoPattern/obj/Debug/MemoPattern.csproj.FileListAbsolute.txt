@@ -1,0 +1,6 @@
+L:\MyPractice\DesignPattern\SimpleFactory\MemoPattern\bin\Debug\MemoPattern.exe.config
+L:\MyPractice\DesignPattern\SimpleFactory\MemoPattern\bin\Debug\MemoPattern.exe
+L:\MyPractice\DesignPattern\SimpleFactory\MemoPattern\bin\Debug\MemoPattern.pdb
+L:\MyPractice\DesignPattern\SimpleFactory\MemoPattern\obj\Debug\MemoPattern.csproj.CoreCompileInputs.cache
+L:\MyPractice\DesignPattern\SimpleFactory\MemoPattern\obj\Debug\MemoPattern.exe
+L:\MyPractice\DesignPattern\SimpleFactory\MemoPattern\obj\Debug\MemoPattern.pdb
