@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoPattern", "MemoPattern\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "Composite\Composite.csproj", "{34915498-B0B7-478B-8188-6BD1B642F45C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgePattern", "BridgePattern\BridgePattern.csproj", "{368BBBC5-8894-4378-BD3E-29C8D94ACA87}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{34915498-B0B7-478B-8188-6BD1B642F45C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34915498-B0B7-478B-8188-6BD1B642F45C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34915498-B0B7-478B-8188-6BD1B642F45C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{368BBBC5-8894-4378-BD3E-29C8D94ACA87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{368BBBC5-8894-4378-BD3E-29C8D94ACA87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{368BBBC5-8894-4378-BD3E-29C8D94ACA87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{368BBBC5-8894-4378-BD3E-29C8D94ACA87}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

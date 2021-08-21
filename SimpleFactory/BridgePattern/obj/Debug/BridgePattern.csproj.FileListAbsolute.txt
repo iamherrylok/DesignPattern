@@ -1,0 +1,7 @@
+L:\MyPractice\DesignPattern\SimpleFactory\BridgePattern\bin\Debug\BridgePattern.exe.config
+L:\MyPractice\DesignPattern\SimpleFactory\BridgePattern\bin\Debug\BridgePattern.exe
+L:\MyPractice\DesignPattern\SimpleFactory\BridgePattern\bin\Debug\BridgePattern.pdb
+L:\MyPractice\DesignPattern\SimpleFactory\BridgePattern\obj\Debug\BridgePattern.csproj.AssemblyReference.cache
+L:\MyPractice\DesignPattern\SimpleFactory\BridgePattern\obj\Debug\BridgePattern.csproj.CoreCompileInputs.cache
+L:\MyPractice\DesignPattern\SimpleFactory\BridgePattern\obj\Debug\BridgePattern.exe
+L:\MyPractice\DesignPattern\SimpleFactory\BridgePattern\obj\Debug\BridgePattern.pdb
